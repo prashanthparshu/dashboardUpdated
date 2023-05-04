@@ -1,0 +1,30 @@
+[
+  {
+    "UserId": "896990",
+    "Amount": 2000,
+    "Status": "Success",
+    "Source": "NetBanking",
+    "Date": "12 Aug 2022"
+  },
+  {
+    "UserId": "896990",
+    "Amount": 2000,
+    "Status": "Success",
+    "Source": "NetBanking",
+    "Date": "12 Aug 2022"
+  },
+  {
+    "UserId": "896990",
+    "Amount": 2000,
+    "Status": "Success",
+    "Source": "NetBanking",
+    "Date": "12 Aug 2022"
+  },
+  {
+    "UserId": "896990",
+    "Amount": 2000,
+    "Status": "Fail",
+    "Source": "NetBanking",
+    "Date": "12 Aug 2022"
+  }
+]
